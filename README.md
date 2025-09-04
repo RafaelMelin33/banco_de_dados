@@ -1,2 +1,2 @@
 # banco_de_dados
-meu bacon de dados e todas as atividades sql
+meu banco de dados e todas as atividades sql
